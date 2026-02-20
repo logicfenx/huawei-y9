@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/huawei-y9",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a huawei-y9",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/huawei-y9.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://wbt.link/huawei-y9/"
+    },
+    "homepage": "https://wbt.link/huawei-y9/"
+}
